@@ -1,7 +1,7 @@
 ### HI THERE 👋 WELCOME TO MY PAGE 😄
 
 
-🔭 I’m currently working on ... Human Right First Asylum, A project that serves to help people looking for asylum.
+🔭 I’m currently working on ... Human Right First Blue Witness, A project that aims to serve the community by keeping police accountable.
 #
 🌱 I’m currently learning ... Ruby.
 #
