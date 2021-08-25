@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on ... Human Right First Blue Witness, A project that aims to serve the community by keeping police accountable.
 #
-🌱 I’m currently learning ... Ruby.
+🌱 I’m currently learning ... how to become a better human and coder! Learning more algorithms at the moment.
 #
 💬 Ask me about ... Food, Basketball, Games, and to be honest, Anything! 
 #
