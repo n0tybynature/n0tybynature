@@ -1,7 +1,7 @@
 ### HI THERE 👋 WELCOME TO MY PAGE 😄
 
 
-🔭 I’m currently working on ... Human Right First Blue Witness, A project that aims to serve the community by keeping police accountable.
+🔭 I’m currently working on ... Dota 2 Character Generator, A project that aims to serve the Dota 2 community by helping them select a hero by random with filters.
 #
 🌱 I’m currently learning ... how to become a better human and coder! Learning more algorithms at the moment.
 #
